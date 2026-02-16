@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248923538990",
+    "project_id": "djsortapp",
+    "storage_bucket": "djsortapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248923538990:android:a6f926f38e0c1be6ed41bf",
+        "android_client_info": {
+          "package_name": "com.example.djsortapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBmm9Aok5gxfYs1WC6Z74wmsCsEoy1ep0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
