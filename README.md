@@ -1,5 +1,7 @@
 # DJSortApp 🎵📍
 
+**Created by Kiril Litvin** 👨‍💻
+
 **DJSortApp** is a smart Android application designed to bridge the gap between **DJs** and the **Crowd** in clubs and parties. It allows real-time song requests, queue management, and location sharing for DJs.
 
 ## ✨ Features
@@ -48,6 +50,9 @@
 
 ## 📱 Screenshots
 *(Add screenshots here later)*
+
+## 👤 Author
+**Kiril Litvin**
 
 ## 📄 License
 This project is for educational and portfolio purposes.
